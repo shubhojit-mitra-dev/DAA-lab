@@ -1,6 +1,6 @@
 # DAA LAB
 
-### Patterns
+### [Patterns](https://github.com/shubhojit-mitra-dev/DAA-lab/tree/main/patterns)
 
 - **Square Pattern**
 - **Right Triangle Pattern**
@@ -31,7 +31,7 @@
 
 ---
 
-### Practice-1
+### [Practice-1](https://github.com/shubhojit-mitra-dev/DAA-lab/tree/main/practice-1)
 #### Problem in Binary Search
 
 - Find the number of rotations in a circularly sorted array
@@ -54,7 +54,7 @@
 
 ---
 
-### Practice-2
+### [Practice-2](https://github.com/shubhojit-mitra-dev/DAA-lab/tree/main/practice-2)
 
 - Find sum of all array elements using recursion.
 - Create an array ‘a1’ with ‘n’ elements. Insert an element in ith position of ‘a1’ and also delete an element from jth position of ‘a1’.
@@ -72,7 +72,7 @@
 
 ---
 
-### Practice-3
+### [Practice-3](https://github.com/shubhojit-mitra-dev/DAA-lab/tree/main/practice-3)
 
 - Implement the activity selection problem to get a clear understanding of greedy approach.
 - Get a detailed insight of dynamic programming approach by the implementation of Matrix Chain Multiplication problem and see the impact of parenthesis positioning on time requirements for matrix multiplication.
