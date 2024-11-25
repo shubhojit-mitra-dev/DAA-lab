@@ -45,13 +45,7 @@
 - Find the peak element in an array
 - Find the missing term in a sequence in logarithmic time
 - Find the floor and ceil of a number in a sorted array (Recursive solution)
-- Find the frequency of each element in a sorted array containing duplicates
 - Find the square root of a number using binary search
-- Division of two numbers using binary search algorithm
-- Find the odd occurring element in an array in logarithmic time
-- Find pairs with difference 'k' in an array in constant space
-- Find 'k' closest elements to a given value in an array
-
 ---
 
 ### Practice-2
